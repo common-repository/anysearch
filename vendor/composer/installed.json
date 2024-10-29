@@ -1,0 +1,97 @@
+[
+    {
+        "name": "a5hleyrich/wp-background-processing",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/A5hleyRich/wp-background-processing.git",
+            "reference": "1f070aab5058dbaf45d5435a343033ddd8a641b1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/A5hleyRich/wp-background-processing/zipball/1f070aab5058dbaf45d5435a343033ddd8a641b1",
+            "reference": "1f070aab5058dbaf45d5435a343033ddd8a641b1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2018-02-12T09:24:05+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "classes/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-only"
+        ],
+        "authors": [
+            {
+                "name": "Ashley Rich",
+                "email": "hello@ashleyrich.com"
+            }
+        ],
+        "description": "WP Background Processing can be used to fire off non-blocking asynchronous requests or as a background processing tool, allowing you to queue tasks."
+    },
+    {
+        "name": "bukashk0zzz/yml-generator",
+        "version": "v1.11.2",
+        "version_normalized": "1.11.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Bukashk0zzz/YmlGenerator.git",
+            "reference": "bb53180fdb2a64e4a857023e2e4c71274c5338af"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Bukashk0zzz/YmlGenerator/zipball/bb53180fdb2a64e4a857023e2e4c71274c5338af",
+            "reference": "bb53180fdb2a64e4a857023e2e4c71274c5338af",
+            "shasum": ""
+        },
+        "require": {
+            "ext-simplexml": "*",
+            "ext-xmlwriter": "*",
+            "php": ">=5.6.1"
+        },
+        "require-dev": {
+            "dealerdirect/phpcodesniffer-composer-installer": "^0.5",
+            "escapestudios/symfony2-coding-standard": "^3.0",
+            "ext-dom": "*",
+            "friendsofphp/php-cs-fixer": "^2.3",
+            "fzaninotto/faker": "^1.6",
+            "phpcompatibility/php-compatibility": "^9.0",
+            "phpunit/phpunit": "^5.0"
+        },
+        "time": "2020-05-12T05:43:14+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Bukashk0zzz\\YmlGenerator\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Denis Golubovskiy",
+                "email": "bukashk0zzz@gmail.com",
+                "role": "Creator"
+            }
+        ],
+        "description": "YML (Yandex Market Language) file generator",
+        "homepage": "https://github.com/Bukashk0zzz/YmlGenerator",
+        "keywords": [
+            "market",
+            "yandex",
+            "yml",
+            "yml-generator"
+        ]
+    }
+]

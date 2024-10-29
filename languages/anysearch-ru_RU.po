@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-04 18:36+0200\n"
+"PO-Revision-Date: 2020-11-04 18:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;e_;esc_html_e;esc_html__;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.anysearch-admin.php:111 views/config.php:17
+msgid "Settings"
+msgstr "Настройки"
+
+#: class.anysearch-admin.php:118
+msgid "Anysearch"
+msgstr "Anysearch"
+
+#: class.anysearch-admin.php:140
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: class.anysearch-admin.php:393
+msgid ""
+"Convert each visitor to money! Our plugin is a part of Smart Search calls "
+"AnySearch, which we propose to implement for Woocommerce sites. It takes "
+"over the function of a programmer to install and configure search to your "
+"site. Now you don't need to look for a special person to set up the code, "
+"our plugin will automatically enable the search."
+msgstr ""
+"Конвертируйте каждого посетителя в деньги! Наш плагин это частичка Умного "
+"поиска AnySearch, который мы предлагаем внедрить для Вукомерс сайтов. Он "
+"берет на себя функцию программиста по установке и настройке поиска на ваш "
+"сайт. Теперь вам не нужно искать специального человека для настройки кода, "
+"наш плагин автоматически подключит поиск."
+
+#: class.anysearch-admin.php:395
+msgid ""
+"Convert each visitor to money! Our plugin is a part of Smart Search calls "
+"AnySearch, which we propose to implement for Woocommerce sites. It takes "
+"over the function of a programmer to install and configure search to your "
+"site. Now you don't need to look for a special person to set up the code, "
+"our plugin will automatically enable the search. To get started, just go to "
+"<a href=\"admin.php?page=Anysearch-key-config\">your Anysearch Settings "
+"page</a> to set up your API key."
+msgstr ""
+"Конвертируйте каждого посетителя в деньги! Наш плагин это частичка Умного "
+"поиска AnySearch, который мы предлагаем внедрить для Вукомерс сайтов. Он "
+"берет на себя функцию программиста по установке и настройке поиска на ваш "
+"сайт. Теперь вам не нужно искать специального человека для настройки кода, "
+"наш плагин автоматически подключит поиск. Что бы начать, просто передите в "
+"<a href=\"admin.php?page=Anysearch-key-config\"> настройки плагина</a> для "
+"того, что бы настроить API ключ."
+
+#: class.anysearch.php:271
+#, php-format
+msgid "Anysearch %s requires WordPress %s or higher."
+msgstr "Плагин %s требует WordPress %s или выше."
+
+#: class.anysearch.php:271
+#, php-format
+msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version"
+msgstr "Пожалуйста, <a href=\"%1$s\">обновите WordPress</a> до текущей версии"
+
+#: class.background-task-init.php:171
+#, php-format
+msgid "Every %d minutes"
+msgstr "Каждые %d минут"
+
+#: vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php:424
+#, php-format
+msgid "Every %d Minutes"
+msgstr "Каждые %d минут"
+
+#: views/config.php:27
+msgid "API Key"
+msgstr "Ключ API"
+
+#: views/config.php:40
+msgid "Disconnect this account"
+msgstr "Отключить аккаунт"
+
+#: views/config.php:47
+msgid "Save Changes"
+msgstr "Сохранить настройки"
+
+#: views/config.php:57
+msgid "Export settings"
+msgstr "Экспортировать настройки"
+
+#: views/config.php:67
+msgid "Exporting status"
+msgstr "Статус экспорта"
+
+#: views/config.php:76
+msgid "Last upload"
+msgstr "Последния выгрузка"
+
+#: views/config.php:86
+msgid "Partial sync"
+msgstr "Частичная синхронизация"
+
+#: views/config.php:104
+msgid "Turn on sync when product have been modified or created"
+msgstr "Синхронизировать при изменении или создании продукта"
+
+#: views/config.php:111
+msgid "Remove if out of stock"
+msgstr "Удалять, когда товар заканчивается на складе"
+
+#: views/config.php:130
+msgid "Items which are out of stock will be removed from search results"
+msgstr "Товары, которых нет в наличии, будут удалены из результатов поиска"
+
+#: views/config.php:137
+msgid "Full sync period"
+msgstr "Период полной синхронизации"
+
+#: views/config.php:146
+msgid "Never"
+msgstr "Никогда"
+
+#: views/config.php:149
+msgid "Every day"
+msgstr "Каждый день"
+
+#: views/config.php:152
+msgid "Every 3d day"
+msgstr "Каждый 3-й день"
+
+#: views/config.php:155
+msgid "Every week"
+msgstr "Каждую неделю"
+
+#: views/config.php:170
+msgid "Save"
+msgstr "Сохранить"
+
+#: views/config.php:176
+msgid "Manual full sync"
+msgstr "Запустить полную выгрузку"
+
+#: views/config.php:186
+msgid "Widget settings"
+msgstr "Настройки виджета"
+
+#: views/config.php:193
+msgid "Settings page"
+msgstr "Страница настроек"
+
+#: views/enter.php:2
+msgid "Manually enter an API key"
+msgstr "Введите ключ API вручную"
+
+#: views/enter.php:8
+msgid "Enter your API key"
+msgstr "Введите ключ API вручную"
+
+#: views/enter.php:9
+msgid "Connect with API key"
+msgstr "Подключиться с помощью ключа API"
+
+#: views/expired.php:16 views/notice.php:61
+msgid "Your license has expired"
+msgstr "Действие Вашей подписки временно приостановлено"
+
+#: views/expired.php:19
+msgid "Contact with support to renew your subscription with a button below."
+msgstr "Свяжитесь с нашей поддержкой для оплаты и получения доступа к поиску."
+
+#: views/expired.php:21
+msgid "Contact with us"
+msgstr "Связаться"
+
+#: views/notice.php:19
+msgid "<strong>Almost done</strong> - configure Anysearch and use quick search"
+msgstr ""
+"<strong>Почти закончено</strong> - настроить Any Search и использовать "
+"быстрый поиск"
+
+#: views/notice.php:32
+msgid "Your site can&#8217;t connect to the Anysearch servers."
+msgstr "Ваш сайт не может подключиться к сервесу Anysearch."
+
+#: views/notice.php:33
+msgid ""
+"Your firewall may be blocking Anysearch from connecting to its API. Please "
+"contact your host to resolve this"
+msgstr ""
+"Ваш Firewall может блокировать Anysearch от подключения к его API. "
+"Пожалуйста, обратитесь к своему хостингу, чтобы решить эту проблему"
+
+#: views/notice.php:37
+msgid "Your WP site is now connected to search API."
+msgstr "Ваш сайт подключен к поиску."
+
+#: views/notice.php:41
+msgid "Sync started"
+msgstr "Синхронизация началась"
+
+#: views/notice.php:45
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: views/notice.php:49
+msgid "Sync finished"
+msgstr "Синхронизация закончена"
+
+#: views/notice.php:53
+msgid "The key you entered is invalid. Please double-check it."
+msgstr "Введеный ключ не подходит. Пожалуйста, проверьте ещё раз."
+
+#: views/notice.php:57
+msgid "Your API key is no longer valid. Please enter a new key."
+msgstr "Ваш API ключ больше не действителен. Пожалуйста, введите новый."
+
+#: views/predefined.php:2
+msgid "Manual Configuration"
+msgstr "Ручная настройка"
+
+#: views/predefined.php:7
+#, php-format
+msgid "An anysearch API key has been defined in the %s file for this site."
+msgstr "Ключ API anysearch определен в файле %s для этого сайта."
+
+#: views/setup.php:2
+msgid "Set up your Anysearch account to enable fast search on this site."
+msgstr ""
+"Настройте свою учетную запись Anysearch, чтобы включить быстрый поиск на "
+"этом сайте."
+
+#: views/setup.php:3
+msgid "Set up your Anysearch account"
+msgstr "Настройте свой аккаунт Anysearch"
+
+#: views/title.php:2
+msgid "Let your customer find everything"
+msgstr "Позволь своим клиентам найти то, что они хотят"

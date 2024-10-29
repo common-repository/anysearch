@@ -1,0 +1,6 @@
+{
+    "require": {
+        "a5hleyrich/wp-background-processing": "^1.0",
+        "bukashk0zzz/yml-generator": "^1.11"
+    }
+}
